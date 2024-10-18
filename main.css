@@ -1,0 +1,55 @@
+html{
+    background-color:beige;
+}
+#Name{
+    background-color: rgba(161, 161, 161, 0.507);
+    width:400px;
+    height:300px;
+    position:relative;
+    left:50px;
+    top:100px;
+    text-align: center;
+}
+#Photo{
+    align-items: center;
+}
+
+#INFO1{
+    background-color:rgba(161, 161, 161, 0.507);
+    width:400px;
+    height:200px;
+    position:relative;
+    left:500px;
+    bottom:200px;
+    text-align:center;
+}
+
+#INFO2{
+    background-color:rgba(161, 161, 161, 0.507);
+    width:400px;
+    height:200px;
+    position:relative;
+    left:500px;
+    bottom:100px;
+    text-align:center;
+}
+
+#INFO3{
+    background-color:rgba(161, 161, 161, 0.507);
+    width:400px;
+    height:600px;
+    position:relative;
+    left:950px;
+    bottom:600px;
+    text-align:center;
+}
+
+#INFO4{
+    background-color:rgba(161, 161, 161, 0.507);
+    width:400px;
+    height:400px;
+    position:relative;
+    left:1400px;
+    bottom:1200px;
+    text-align:center;
+}
