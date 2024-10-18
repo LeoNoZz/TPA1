@@ -1,55 +1,70 @@
 html{
-    background-color:beige;
+    background-color:cornsilk;
 }
 #Name{
-    background-color: rgba(161, 161, 161, 0.507);
+    background-color: azure;
     width:400px;
     height:300px;
     position:relative;
     left:50px;
     top:100px;
     text-align: center;
+    box-shadow: 0 2px 5px rgba(82, 82, 82, 0.507);
+    border-radius: 10px;
+    font-family: cursive;
 }
 #Photo{
     align-items: center;
 }
 
 #INFO1{
-    background-color:rgba(161, 161, 161, 0.507);
+    background-color:azure;
     width:400px;
     height:200px;
     position:relative;
     left:500px;
     bottom:200px;
     text-align:center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-family: cursive;
 }
 
 #INFO2{
-    background-color:rgba(161, 161, 161, 0.507);
+    background-color:azure;
     width:400px;
     height:200px;
     position:relative;
     left:500px;
     bottom:100px;
     text-align:center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-family: cursive;
 }
 
 #INFO3{
-    background-color:rgba(161, 161, 161, 0.507);
+    background-color:azure;
     width:400px;
     height:600px;
     position:relative;
     left:950px;
     bottom:600px;
     text-align:center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-family: cursive;
 }
 
 #INFO4{
-    background-color:rgba(161, 161, 161, 0.507);
+    background-color:azure;
     width:400px;
     height:400px;
     position:relative;
     left:1400px;
     bottom:1200px;
     text-align:center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-family: cursive;
 }
